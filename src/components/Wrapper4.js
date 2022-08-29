@@ -2,7 +2,7 @@ import React from "react";
 import { Suspense, useState } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Stars } from "@react-three/drei";
-//import ModelGato from "./ModelGato";
+import ModelGato from "./ModelGato";
 import * as THREE from "three";
 
 const Wrapper4 = ({ ...props }) => {
