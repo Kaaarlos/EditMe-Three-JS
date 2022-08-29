@@ -7,7 +7,7 @@ import Wrapper3 from "./components/Wrapper3";
 const shoe = "/shoe2.gltf";
 const arbol = "/Arbol.gltf";
 const astro = "/Astronaut.gltf";
-const gato = "/Gato.gltf";
+//const gato = "/Gato.gltf";
 
 function App() {
   return (
