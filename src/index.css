@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  background-color: #95376C ;
+  font-family: roboto, sans-serif;
+  color: aliceblue;
+
+}
+
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #95376C;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+  min-height: 50vh;
+  border-radius: 33px;
+  box-shadow: 20px 40px 33px rgba(0, 0, 0, 0.3);
+  padding: 2rem;
+  width: 35vw;
+  background-color: #D44F4F;
+}
+
+.product-canvas {
+  width: 35vw;
+  height: 38vh;
+  background: white;
+  box-shadow: 20px 40px 33px rgba(0.3, 0.3, 0.3, 0.3);
+  margin-bottom: 20px;
+}
+
+.colors {
+  padding: 10%;
+  align-items: center;
+  justify-content: center;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: 50px 50px 50px 50px;
+  grid-template-rows: 50px 50px;
+}
+
+.colors div {
+  padding: 8px;
+}
