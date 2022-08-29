@@ -18,11 +18,11 @@ function App() {
           astro: astro,
         }}
       />
-      <Wrapper4
+      /*<Wrapper4
         customGato={{
           gato: gato,
         }}
-      />
+      />*/
       <Wrapper
         customShoes={{
           shoe: shoe,
