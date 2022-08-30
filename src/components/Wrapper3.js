@@ -55,7 +55,7 @@ const Wrapper3 = ({ ...props }) => {
             />
           </Canvas>
         </div>
-        <h2>Color chooser</h2>
+        <h2>pintame como a una de tus monas chinas </h2>
 
         <div className="colors">
           <div>

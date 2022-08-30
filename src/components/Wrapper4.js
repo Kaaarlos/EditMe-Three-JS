@@ -27,16 +27,16 @@ const Wrapper4 = ({ ...props }) => {
             <color attach={"background"} args={["#8C86BC"]} />
             <Suspense>
               <spotLight
-                intensity={0.9}
+                intensity={0.5}
                 angle={0.1}
                 penumbra={1}
-                position={[10, 15, 10]}
+                position={[10, 50, 10]}
                 castShadow
               />
               <directionalLight
-                position={[10, 10, 10]}
+                position={[10, 20, 10]}
                 color={"white"}
-                intensity={0.4}
+                intensity={0.01}
               />
               <ambientLight intensity={0.01} color={"#ffffff"} />
               
@@ -60,7 +60,7 @@ const Wrapper4 = ({ ...props }) => {
             />
           </Canvas>
         </div>
-        <h2>Color chooser</h2>
+        <h2>pintame como a una de tus monas chinas </h2>
 
         <div className="colors">
           <div>
