@@ -4,6 +4,8 @@ Website: https://remarkable-granita-72ee7a.netlify.app/
 In the project directory, you can run:
 
 ### `npm start`
+![image](https://user-images.githubusercontent.com/73798412/195769578-ca13efc7-8e0d-4058-8229-897a594a0789.png)
+
 
 ![image](https://user-images.githubusercontent.com/73798412/187349615-c29fd749-f164-45d7-91d6-fcbd8d257332.png)
 
